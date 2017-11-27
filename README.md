@@ -25,10 +25,10 @@ Es la navegacion con filtros previamente definidos por el sistema.
 
 ![facetada2](assets/images/facetada2.png)
 
-*Filtros*  
+*Filtrada*  
 Navegacion que me permite que el usurio pueda filtrar la información de acuerdo a sus requerimientos.
 
-![filtros](assets/images/filtros.png)
+![filtros](assets/images/filtros-breather.png)
 
 
 ![filtros2](assets/images/filtros2.png)
